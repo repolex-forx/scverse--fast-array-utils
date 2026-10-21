@@ -1,0 +1,11 @@
+{
+  "org": "scverse",
+  "repo": "fast-array-utils",
+  "versions": [
+    {
+      "commit": "dce1f85e9d431e9013eb811a0fa58c1185022f2e",
+      "tag": "",
+      "parsed_at": "2026-10-21T21:23:07.685076+00:00"
+    }
+  ]
+}
